@@ -1,2 +1,2 @@
-Odin project.
+Odin project
 Recipes
